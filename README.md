@@ -26,13 +26,12 @@ Higher lambda → more sparsity but lower accuracy
 
 ## Files
 - self_pruning_neural_network.py → code
-- self_pruning_report.pdf → explanation
-
-## Note: Due to network timeout, synthetic data (FakeData) was used as fallback for demonstration.
-  
+- self_pruning_report.pdf → explanation 
 - gate_distribution.png → gate analysis
 
 ## How to Run
 1. Install PyTorch
 2. Run:
    python self_pruning_neural_network.py
+
+Note: Due to network timeout, synthetic data (FakeData) was used as fallback for demonstration.
