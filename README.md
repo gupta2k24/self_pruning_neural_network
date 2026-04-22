@@ -27,6 +27,9 @@ Higher lambda → more sparsity but lower accuracy
 ## Files
 - self_pruning_neural_network.py → code
 - self_pruning_report.pdf → explanation
+
+## Note: Due to network timeout, synthetic data (FakeData) was used as fallback for demonstration.
+  
 - gate_distribution.png → gate analysis
 
 ## How to Run
